@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bucalem
-- 👀 I’m interested in R, statistics, GIS, public opinion research
+- 👀 I’m interested in R, statistics, GIS, public opinion research, social listening, digital etnography
 - 🌱 I’m currently learning R 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
