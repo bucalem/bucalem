@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @bucalem
-- 👀 I’m interested in R, statistics, GIS, public opinion research, social listening, digital etnography
-- 🌱 I’m currently learning R, SQL
+- 👀 I’m interested in R, statistics, GIS, public opinion research, social listening, digital intelligence, digital etnography
+- 🌱 I’m currently learning Python, R, SQL, AI
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... maguilar.cb at googlemail
-
-![Estoy aprendiendo](/imagenes/rafa_coleco.jpg)
 
 <!---
 bucalem/bucalem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
